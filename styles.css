@@ -1,0 +1,44 @@
+body{
+    background-color: darkblue;
+    color: white;
+}
+form{
+    margin-left: 500px;
+    box-sizing: border-box;
+    background-color: gray;
+    height: fit-content;
+    width: fit-content;
+    padding-right: 120px;
+}
+fieldset{
+    border: 0;
+}
+h1{
+    text-align: center;
+}
+p{
+    text-align: center;
+    margin-top: 0;
+    margin-bottom: 5px;
+}
+.inline{
+    display: inline;
+}
+button{
+    margin-left: 200px;
+}
+input[type="text"]{
+    width: 100%;
+}
+input[type="email"]{
+    width: 100%;
+}
+input[type="age"]{
+    width: 200%;
+}
+select[for="dsd"]{
+    width: 100%;
+}
+select[for="xxx"]{
+    width: 100%;
+}
